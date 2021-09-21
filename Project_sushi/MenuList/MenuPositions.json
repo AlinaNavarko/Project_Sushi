@@ -1,0 +1,51 @@
+[{
+  "Name": "Филадельфия (8шт.)",
+  "Price": 15,
+  "Availability": true
+},
+{
+  "Name": "Калифорния (8шт.)",
+  "Price": 16,
+  "Availability": true
+},
+{
+  "Name": "Бонито (8шт.)",
+  "Price": 12,
+  "Availability": false
+},
+{
+"Name": "Урамаки (8шт.)",
+  "Price": 10,
+  "Availability": true
+},
+{
+  "Name": "Маки с лососем (8шт.)",
+  "Price": 9,
+  "Availability": true
+},
+{
+  "Name": "Маки с угрем (8шт.)",
+  "Price": 11,
+  "Availability": true
+},
+{
+  "Name": "Соевый соус (55 г.)",
+  "Price": 2,
+  "Availability": true
+},
+{
+  "Name": "Имбирь (25 г.)",
+  "Price": 2,
+  "Availability": true
+},
+{
+  "Name": "Васаби (15 г.)",
+  "Price": 2,
+  "Availability": true
+},
+{
+  "Name": "Палочки для суши",
+  "Price": 1,
+  "Availability": true
+}
+]
